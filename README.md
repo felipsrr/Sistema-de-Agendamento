@@ -136,23 +136,6 @@ Arquivo	O que testa	Exemplos
 test_paciente.py	Validação de CPF	CPF com letras, tamanho incorreto
 test_medico.py	Agenda do médico	Adição, remoção e duplicidade de horários
 test_agendamento.py	Fluxo completo	Confirmar, realizar e cancelar agendamento
-💻 Comandos úteis de Git e GitHub
-
-Inicializar repositório local
-git init
-
-Adicionar arquivos
-git add .
-
-Criar commit
-git commit -m "Versão inicial do Sistema de Agendamento"
-
-Adicionar repositório remoto
-git remote add origin https://github.com/SEU-USUARIO/Sistema-de-Agendamento.git
-
-Enviar para o GitHub
-git branch -M main
-git push -u origin main
 
 📚 Tecnologias utilizadas
 
